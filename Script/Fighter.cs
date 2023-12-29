@@ -53,7 +53,7 @@ public class Fighter : MonoBehaviour
 
         // Deactivate the current player GameObject
         gameObject.SetActive(false);
-
+        Destroy(gameObject);
         // Teleport the player to the first scene
         GameManager.instance.SaveState();
         UnityEngine.SceneManagement.SceneManager.LoadScene("Main");
