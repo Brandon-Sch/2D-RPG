@@ -1,4 +1,7 @@
 # 2D Top Down Dungeon RPG
+- To play click the link- https://play.unity.com/mg/other/buildgame-33
+- OR go to unity play and find my game: 2D TopDown RPG and play the game from there.
+<br>
 This is my first attempt at game development. I created a top-down 2D wave spawning game where your player fights waves of skeletons. 
 
 
