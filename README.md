@@ -17,5 +17,6 @@ Move using WASD and strike using the space bar. You have 10hp before you respawn
 
 
 ## Screenshots
-
+- Here is the spawn point of the game. You are the shirtless character holding the sword. There is an example enemy, with the orange hair, you can test your swings on.
+![Start of Game](https://github.com/Brandon-Sch/2D-RPG/assets/134080428/0e8bfa94-7988-4f6f-9cd1-f5fcc4c76a05)
 
