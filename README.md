@@ -20,3 +20,12 @@ Move using WASD and strike using the space bar. You have 10hp before you respawn
 - Here is the spawn point of the game. You are the shirtless character holding the sword. There is an example enemy, with the orange hair, you can test your swings on.
 ![Start of Game](https://github.com/Brandon-Sch/2D-RPG/assets/134080428/0e8bfa94-7988-4f6f-9cd1-f5fcc4c76a05)
 
+
+- There are chests littered around the map which each grant 5 coins. Before they are opened the image shows them full of gold, after they are shown as empty. 
+![Money collection](https://github.com/Brandon-Sch/2D-RPG/assets/134080428/81b006ef-aaae-4c19-837b-3cb2c9013116)
+
+- There are waves of skeletons that spawn that chase after you. Each skeleton does one damage and has 3 hp. Be careful as they also have a slight knockback effect, but so do you!
+![skeleton fight](https://github.com/Brandon-Sch/2D-RPG/assets/134080428/99199c20-0dab-42b2-b5d0-d0694a74a2d5)
+
+- Upon their death, the skeletons grant 1 XP. (As you see at the top the skeletons spawn in the door.)
+- ![skeleton death](https://github.com/Brandon-Sch/2D-RPG/assets/134080428/de2eb4cb-bbd0-4b80-bb9e-e2b288452957)
