@@ -47,3 +47,9 @@ This was my first time using Unity as well as my first time using C#! I learned 
 
 - Upon their death, the skeletons grant 1 XP. (As you see at the top the skeletons spawn in the door.)
 ![skeleton death](https://github.com/Brandon-Sch/2D-RPG/assets/134080428/de2eb4cb-bbd0-4b80-bb9e-e2b288452957)
+
+
+## Development
+
+I developed this game using the Unity game engine.
+All of the assets were downloaded off of the Unity store for free.
